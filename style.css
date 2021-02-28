@@ -32,3 +32,9 @@ footer {
   font-size: 2rem;
   background-color: rgb(134, 189, 190);
 }
+
+.tinker-div1 {
+  margin: 3%;
+  padding: 3%;
+  border: 1px solid black;
+}
