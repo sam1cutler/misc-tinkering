@@ -17,9 +17,14 @@ html {
   height: -webkit-fill-available;
 }
 
+.app-container {
+  margin: 0;
+}
+
 header {
   font-size: 2rem;
   background-color: rgb(190, 224, 224);
+  width: 100%;
 }
 
 main {
