@@ -1,0 +1,30 @@
+/*--- main body styles ---*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex; 
+  flex-direction: column;
+  margin: 0;
+  min-height: 100vh;
+  min-height: fill-available;
+  font-size: 16px;
+}
+
+header {
+  font-size: 2rem;
+  background-color: rgb(190, 224, 224);
+}
+
+main {
+  flex: 1;
+  font-size: 2rem;
+  background-color: rgb(168, 197, 187);
+}
+
+footer {
+  font-size: 2rem;
+  background-color: rgb(134, 189, 190);
+}
